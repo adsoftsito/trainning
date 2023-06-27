@@ -6,3 +6,7 @@
 4. Realizar [DockerLab2](https://github.com/adsoftsito/web/blob/main/w2/dockerlab2.pdf)
 5. Registrarse en [Docker Hub](https://hub.docker.com/)
 6. Subir imagen de nodejs a Docker Hub (Punto 5 dockerlab)
+
+# Day 2 - Github Actions 
+1. Deploy React Frontend  [Docker/Kubernetes](https://docs.google.com/presentation/d/1YFgDfZ9FLu3dwyANWK_xfL54NgahGA8C/edit?usp=sharing&ouid=103318994033956699072&rtpof=true&sd=true)
+2. Deploy NodeJs Backend [Docker/Kubernetes](https://docs.google.com/presentation/d/1JZwXtZyVSp3fYoRfMo0iTvDuAUTdLatG/edit?usp=sharing&ouid=103318994033956699072&rtpof=true&sd=true)
