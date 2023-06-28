@@ -12,4 +12,4 @@
 2. Deploy NodeJs Backend [Docker/Kubernetes](https://docs.google.com/presentation/d/1JZwXtZyVSp3fYoRfMo0iTvDuAUTdLatG/edit?usp=sharing&ouid=103318994033956699072&rtpof=true&sd=true)
 
 # Day 3 - Angular Deploy 
-1. Deploy Angular/openai Frontend [https://docs.google.com/presentation/d/1K4vz4arkMBFKMuGS_WRKl75b_4JedIt3/edit?usp=sharing&ouid=103318994033956699072&rtpof=true&sd=true]
+1. Deploy Angular/openai Frontend](https://docs.google.com/presentation/d/1K4vz4arkMBFKMuGS_WRKl75b_4JedIt3/edit?usp=sharing&ouid=103318994033956699072&rtpof=true&sd=true)
