@@ -13,3 +13,6 @@
 
 # Day 3 - Angular Deploy 
 1. Deploy [Angular/openai Frontend](https://docs.google.com/presentation/d/1K4vz4arkMBFKMuGS_WRKl75b_4JedIt3/edit?usp=sharing&ouid=103318994033956699072&rtpof=true&sd=true)
+2. Deploy [Flask Hello World](https://github.com/adsoftsito/python-flask)
+3. Deploy [GraphQL API](https://docs.google.com/presentation/d/1dwkslhao4AJfPmMFkTiC-pfJ7FwoWMzu6zw_i59sQGw/edit?usp=sharing)
+   
