@@ -17,4 +17,7 @@
 
 # Day 4 - Graphql Deploy 
 1. Deploy [GraphQL API](https://docs.google.com/presentation/d/1dwkslhao4AJfPmMFkTiC-pfJ7FwoWMzu6zw_i59sQGw/edit?usp=sharing)
-   
+
+# Day 5 - Kubernetes port-forward  
+1. Install [kubectl](https://www.okteto.com/docs/cloud/credentials/)
+2. port-forwarding [migrate](https://www.okteto.com/blog/connecting-to-database-with-port-forwarding/)
