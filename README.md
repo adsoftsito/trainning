@@ -23,6 +23,9 @@
 2. Download [okteto credentials](https://www.okteto.com/docs/cloud/credentials/)
 3. port-forwarding [migrate](https://www.okteto.com/blog/connecting-to-database-with-port-forwarding/)
 
-# Day 6 - Kafka local  
+# Day 6,7 - Kafka local  
 1. Install, configure, test [kafka local](https://docs.google.com/presentation/d/1LwTdE82qPk6dL4gW9dcmZ6uBqJXItCZ6zulONf6lq3E/edit#slide=id.gcb9a0b074_1_0)
 
+# Day 8 - Modelops 
+1. Deploy [ML model](https://docs.google.com/document/d/1KKPh3WE2IpwaUhPtd-dn2j9ncFQM0uA-Tk2T676IS4I/edit)
+   
