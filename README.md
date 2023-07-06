@@ -28,5 +28,8 @@
 
 # Day 8 - Modelops 
 1. Deploy [ML model](https://docs.google.com/document/d/1KKPh3WE2IpwaUhPtd-dn2j9ncFQM0uA-Tk2T676IS4I/edit?usp=sharing)
-   
-   
+
+# Day 9 - Modelo resnet
+1. Realizar Lab [Resnet/Flutter](https://docs.google.com/presentation/d/1KufW46qT7pr_kWVLWu6iQAnmTD9AkaPoSqT04sHCYfE/edit?usp=sharing) 
+
+
